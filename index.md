@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CV Michel Mollard
 
 You can use the [editor on GitHub](https://github.com/ModevInfo/ResaPoleDance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
