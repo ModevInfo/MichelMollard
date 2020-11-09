@@ -1,5 +1,18 @@
 ## CV Michel Mollard
 
+### Devlivery Manager & Team Leader
+Plus de 18 ans d'expérience
+
+### EXPERIENCE PROFESSIONNELLE
+
+#### CGI - 2011 à 2020
+
+```markdown
+# Michelin - 2011 à 2020
+
+
+```
+
 You can use the [editor on GitHub](https://github.com/ModevInfo/ResaPoleDance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
