@@ -6,7 +6,6 @@ Plus de 18 ans d'expérience
 ### EXPERIENCE PROFESSIONNELLE
 
 #### CGI - 2011 à 2020
-[CGI - 2011 à 2020](#){.btn .btn-default}
 
 ```markdown
 # Michelin - 2011 à 2020
