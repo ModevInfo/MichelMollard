@@ -7,7 +7,7 @@ Plus de 18 ans d'expérience
 
 #### CGI - 2011 à 2020
 
-```markdown
+
  **Michelin - 2011 à 2020**
  2019-2020 : Delivery Manager pour entité BI SC
  Suivi du delivery Projet : 
@@ -15,11 +15,6 @@ Plus de 18 ans d'expérience
   - Passage des équipes en mode subway réduisant le time to market (12 Mise en Prod par an à plus de 60 !)
   - Mise en oeuvre de chantiers d'amélioration DevOps afin de sécuriser et automatiser le plus possible les actions DevOps.
   
-  
- 
-
-
-```
 
 You can use the [editor on GitHub](https://github.com/ModevInfo/ResaPoleDance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
